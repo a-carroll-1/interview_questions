@@ -19,7 +19,8 @@ def string_to_int(whole_number_string):
 
 def string_list_to_int(list_of_strings):
     """
-    Given a list of real whole numbers, return a list of equivalent integers.
+    Given a list of real whole numbers as strings, 
+    return a list of equivalent integers.
     Args:
         list_of_strings:
 
@@ -45,7 +46,7 @@ def name_case_modifier(lowercase_name):
 def sorted_values(unsorted_dict):
     """
     Given an un-nested dictionary of simple key-value pairs,
-    return a list containing all values as strings alphabetical.
+    return a list of the values in alphabetical order.
     Args:
         unsorted_dict:
 
@@ -67,5 +68,3 @@ def given_value(un_nested_dict):
 
     """
     return None
-
-

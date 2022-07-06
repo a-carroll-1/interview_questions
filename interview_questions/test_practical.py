@@ -1,5 +1,4 @@
-# from interview_questions import practical
-from interview_questions import practical_answers as practical
+import practical
 
 
 class TestStringInt:
